@@ -119,6 +119,7 @@
 		<Product type="0002" id="004a" name="ZW074 MultiSensor Gen5" config="aeotec/zw074.xml"/>
 		<Product type="0102" id="004a" name="ZW074 MultiSensor Gen5" config="aeotec/zw074.xml"/>
 		<Product type="0202" id="004a" name="ZW074 MultiSensor Gen5" config="aeotec/zw074.xml"/>
+		<Product type="1a02" id="004a" name="ZW074 MultiSensor Gen5" config="aeotec/zw074.xml"/>
 		<Product type="0003" id="004b" name="ZW075 Smart Switch Gen5" config="aeotec/zw075.xml"/>
 		<Product type="0103" id="004b" name="ZW075 Smart Switch Gen5" config="aeotec/zw075.xml"/>
 		<Product type="0203" id="004b" name="ZW075 Smart Switch Gen5" config="aeotec/zw075.xml"/>
